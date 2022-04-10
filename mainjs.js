@@ -77,7 +77,6 @@ for (heart of purplHearts) {
         purplText.push(rnd);
         setTimeout(()=>{
             parBoth[rnd].classList.toggle('nonTransp');
-            parBoth[rnd].style.zIndex = 0;
             setTimeout(()=> {
                 purplText.shift();
                 parBoth[rnd].style.zIndex = 0;

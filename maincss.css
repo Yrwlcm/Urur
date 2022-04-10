@@ -100,7 +100,7 @@ header>h1 {
 .Heartbuttons>button {
     border: 0;
     height: 30vmin;
-    width: 30vw;
+    width: 30vmin;
     grid-row: 1;
     margin: 0 auto;
     padding: 0;

@@ -38,7 +38,8 @@ textarea {
     height: 30vmin;
     font-size: 5vmin;
     padding-left: 5px;
-    font-family: 'Prosto One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
 }
 
 .div_for_txts {

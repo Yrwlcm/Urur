@@ -9,7 +9,6 @@ let purplHearts = document.querySelectorAll('header>img');
 
 let leftTextArea = document.querySelector('.Not_urur_txt');
 let rightTextArea = document.querySelector('.Urur_txt');
-leftTextArea.addEventListener('input', translateThings);
 
 let leftHeart = document.querySelector('.Heart_Blue');
 let rightHeart = document.querySelector('.Heart_Red');

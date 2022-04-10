@@ -14,13 +14,9 @@ let leftHeart = document.querySelector('.Heart_Blue');
 let rightHeart = document.querySelector('.Heart_Red');
 
 const parAll = document.querySelectorAll('body>p');
-console.log(parAll);
 const parBoth = document.querySelectorAll('body>.both');
-console.log(parBoth);
 const parE = document.querySelectorAll('body>.parE');
-console.log(parE);
 const parS = document.querySelectorAll('body>.parS');
-console.log(parS);
 
 function randint (min,max) {
     min = Math.ceil(min);

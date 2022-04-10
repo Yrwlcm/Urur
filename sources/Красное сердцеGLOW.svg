@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="411" height="365" viewBox="0 0 411 365">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0c00;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1382" y="222" width="411" height="365" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="18" in="SourceAlpha"/>
+      <feComposite result="composite"/>
+      <feComposite result="composite-2"/>
+      <feComposite result="composite-3"/>
+      <feFlood result="flood" flood-color="#ff3000" flood-opacity="0.16"/>
+      <feComposite result="composite-4" operator="in" in2="composite-3"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+      <feBlend result="blend-2" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Красное_сердце" data-name="Красное сердце" class="cls-1" d="M1586.02,327.16c-32.26-69.1-143.32-50.675-141,36.674,1.44,54.543,49.75,74.955,83.13,96.766,32.37,21.153,55.41,50.089,59.02,62.408,3.09-12.07,28.75-41.825,58.71-63,32.76-23.153,82.63-42.208,83.14-96.766C1729.82,277.145,1612.09,258.473,1586.02,327.16Z" transform="translate(-1382 -222)"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284" height="237.969" viewBox="0 0 284 237.969">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1042.314" y1="658" x2="875.686" y2="420.031" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7d12ab"/>
+      <stop offset="0.161" stop-color="#7d12ab"/>
+      <stop offset="0.709" stop-color="#d000ff"/>
+      <stop offset="1" stop-color="#d000ff"/>
+    </linearGradient>
+  </defs>
+  <path id="Голубенькое_сердце" data-name="Голубенькое сердце" class="cls-1" d="M958.016,462.16c-32.26-69.1-143.312-50.675-141,36.674,1.44,54.543,49.754,74.955,83.135,96.766,32.369,21.153,55.406,50.089,59.016,62.408,3.091-12.07,28.75-41.825,58.713-63,32.76-23.153,82.63-42.208,83.14-96.766C1101.82,412.145,984.086,393.473,958.016,462.16Z" transform="translate(-817 -420.031)"/>
+</svg>

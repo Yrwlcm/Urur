@@ -29,7 +29,6 @@ function randint (min,max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
-// Создать массивы для каждой функции которые не будут давать повторно активировать уже активные хуйни
 let blueText = [], redText = [], purplText = [];
 
 leftHeart.addEventListener('click', (e) => {
@@ -87,37 +86,6 @@ for (heart of purplHearts) {
         }, 900);
     }
     })
-}
-
-// Возвращает питохофске техт в виде строки))
-// $.ajax({
-//     url:'stdwords.py',
-//     data:'fake and gay'
-// }).done(respone => console.log(respone))
-
-// получаем список слов
-// let words;
-
-// fetch('wordsUrRur.json')
-//     .then(response => response.json())
-//     .then(data => {
-//         words = data;
-//     })
-
-function translateThings () {
-    if (isDefault == 1) {
-        leftTxtArr = leftTextArea.value.split(" ");
-        rightTxtArr = []
-        let q;
-        for (let i = 0; i < leftTxtArr.length; i++) {
-            q = words[isDefault][leftTxtArr[i].toLowerCase()];
-            // Доделать перевод
-        }
-    }
-    else
-    {
-        console.log("something else")
-    }
 }
 
 function switchSides () {
